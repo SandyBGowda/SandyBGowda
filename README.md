@@ -91,3 +91,4 @@ I’m a Data Analyst and Python enthusiast who transforms raw data into meaningf
 
 Looking forward to opportunities where collaboration and continuous learning lead to impactful outcomes !!
 
+![snake gif](https://github.com/SandyBGowda/SandyBGowda/blob/output/github-contribution-grid-snake.gif)
